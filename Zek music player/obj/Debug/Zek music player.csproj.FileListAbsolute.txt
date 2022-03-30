@@ -1,0 +1,33 @@
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\bin\Debug\Zek music player.exe.config
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\bin\Debug\Zek music player.exe
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\bin\Debug\Zek music player.pdb
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\bin\Debug\Guna.UI2.dll
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.Form1.resources
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.Properties.Resources.resources
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.GenerateResource.cache
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.CoreCompileInputs.cache
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.CopyComplete
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.exe
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.pdb
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Interop.WMPLib.dll
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.ResolveComReference.cache
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.EditProfile.resources
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.playlist.resources
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.open_playlist.resources
+C:\Users\bellatrix lestrange\Downloads\source\Zek music player\Zek music player\obj\Debug\Zek music player.csprojAssemblyReference.cache
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\bin\Debug\Zek music player.exe.config
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\bin\Debug\Zek music player.exe
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\bin\Debug\Zek music player.pdb
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\bin\Debug\Guna.UI2.dll
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.AssemblyReference.cache
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Interop.WMPLib.dll
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.ResolveComReference.cache
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.EditProfile.resources
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.Form1.resources
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.open_playlist.resources
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.playlist.resources
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek_music_player.Properties.Resources.resources
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.GenerateResource.cache
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.csproj.CoreCompileInputs.cache
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.exe
+E:\UNTUK SETELAH INSTAL WIN\NGODING\source\Zek music player\Zek music player\obj\Debug\Zek music player.pdb
