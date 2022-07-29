@@ -28,3 +28,6 @@ Net framework >= 3.5 - Recommended: latest
 - You can customize name in profile music
 - Add your social media account 
 ```
+## License
+
+This project is licensed under the [MIT license](LICENSE).
